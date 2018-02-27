@@ -15,11 +15,11 @@ The second line give instructions to the mower to go throughout the lawn. Instru
 Each mower move sequentially, meaning that the second mower moves only when the first has fully performed its series of instructions.
 When a mower has finished, it give the final position and orientation.
 
-# Example :
-input file\n
-55\n
-12 N GAGAGAGAA 
-33 E AADAADADDA 
+# Example:
+input file
+55
+12 N GAGAGAGAA
+33 E AADAADADDA
 result
 13 N
 51 E
