@@ -16,8 +16,8 @@ Each mower move sequentially, meaning that the second mower moves only when the 
 When a mower has finished, it give the final position and orientation.
 
 # Example :
-input file
-55
+input file\n
+55\n
 12 N GAGAGAGAA 
 33 E AADAADADDA 
 result
