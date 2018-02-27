@@ -1,4 +1,4 @@
-#Goal
+# Goal
 Build a typescript program that implement the following mower’s specification. The tasks
 The company X wants to develop an automower for square surfaces.
 The mower can be programmed to go throughout the whole surface. Mower's position is represented by coordinates (X,Y) and a characters indicate the orientation according to cardinal notations (N,E,W,S).
@@ -15,7 +15,7 @@ The second line give instructions to the mower to go throughout the lawn. Instru
 Each mower move sequentially, meaning that the second mower moves only when the first has fully performed its series of instructions.
 When a mower has finished, it give the final position and orientation.
 
-#Example :
+# Example :
 input file
 55
 12 N GAGAGAGAA 
@@ -24,6 +24,6 @@ result
 13 N
 51 E
 
-#The algorithm description
+# The algorithm description
 1. Parsing of the input file, define the lawn area
 2. Creation of objects and execution of instructions one by one
